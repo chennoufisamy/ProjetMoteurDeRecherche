@@ -1,0 +1,692 @@
+Document Reddit,Document Arxiv,TF-IDF Reddit,TF-IDF Arxiv,Similarité BM25 Okapi,Similarité Cosinus
+Stardust,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.734991661109257,0.46708376706115085
+Quark stars,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.722580528972088,0.26670652957833224
+Stardust,Prediction of nuclear reaction rates for astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.437670880282863,0.2643669058147691
+Sound and Light Question I've Been Thinking About Recently,High energy astrophysical processes,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],26.886114949574015,0.2520683346068532
+CMB Blackbody Radiation Joules Calculation,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],7.666605265751313,0.23958201667823717
+What would it mean for our understanding of the Universe if we discovered that the speed of light was not a constant?,Superluminous supernovae: an explosive decade,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.487304020813284,0.22479045940762882
+Question: Big Bang & Speed of Light,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.634991800338097,0.21472161581121219
+Would it be possible for a solar system to form from rogue planets?,Remarks about the thermodynamics of astrophysical systems in mutual  interaction and related notions,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],34.780361822251585,0.2116978320766829
+Quark stars,Population synthesis in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.313697697971847,0.2111165418882862
+Stardust,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.5373988519112136,0.21065553235122164
+"""Artificial gravity"", sci-fi & a stupid question",Hydrodynamical scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],24.00191853060593,0.20989733574019728
+Sound and Light Question I've Been Thinking About Recently,Best-Bet Astrophysical Neutrino Sources,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],13.87631318815599,0.20818116634206002
+Sound and Light Question I've Been Thinking About Recently,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],5.318563871765252,0.20639314728645866
+Advice for an astrophysics PhD student,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],74.21476174972219,0.19854474049708484
+Advice for an astrophysics PhD student,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],62.837883879157864,0.1957766842597229
+Sound and Light Question I've Been Thinking About Recently,"Proceedings ""Neutrino Astrophysics""",[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],13.488301421517779,0.19485562377039445
+Help: Looking for a present for phd student in astrophysics.,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.995444267413992,0.19456377982056505
+Advice for an astrophysics PhD student,Sources of GeV Photons and the Fermi Results,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.368043021082687,0.19215489846482092
+What would it mean for our understanding of the Universe if we discovered that the speed of light was not a constant?,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],24.76722981718446,0.19016082391319988
+CMB Blackbody Radiation Joules Calculation,High energy astrophysical processes,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],27.445468799322597,0.18928809452193623
+"""Artificial gravity"", sci-fi & a stupid question",Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],21.962184724394366,0.18504007274834192
+Sound and Light Question I've Been Thinking About Recently,Neutrino Astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],12.421900736150816,0.18296519647229598
+Is faster than light travel possible and will it ever be possible,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.123139783558702,0.18272539672268126
+Good topic to write an Expos on?,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.398643926215833,0.1787724468143433
+Sound and Light Question I've Been Thinking About Recently,Open issues in neutrino astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],30.498955813144153,0.17546035419568198
+Sound and Light Question I've Been Thinking About Recently,Lecture notes on high energy cosmic rays,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],13.993129167070732,0.17429444247634204
+Quark stars,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.914372666155529,0.17360520102161475
+Any advice for a beginner?,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.16383089807276,0.17273787747933494
+Advice for an astrophysics PhD student,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],33.38987587881609,0.171420282821794
+What would it mean for our understanding of the Universe if we discovered that the speed of light was not a constant?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],23.856642208313062,0.1711467918811386
+Dark Energy question from an amateur,Astrophysical Rates for Explosive Nucleosynthesis: Stellar and  Laboratory Rates for Exotic Nuclei,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.316118911978037,0.1706319151334434
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.524729160002565,0.16824461411147415
+CMB Blackbody Radiation Joules Calculation,Scientific Productivity with X-ray All-Sky Monitors,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],16.6805109656195,0.16667507984646235
+Help: Looking for a present for phd student in astrophysics.,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],39.77731116254698,0.16472577411349726
+"If space-time expansion could be mathematically subtracted from the universe, which way would various things be moving around?",Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.0,0.1637295187908218
+Is faster than light travel possible and will it ever be possible,The Source of Turbulence in Astrophysical Disks: An Ill-posed Problem.,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.814545195076322,0.16291512814230147
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",High energy astrophysical processes,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],17.733239917060114,0.16022754581451507
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.315654249985247,0.15337934679249135
+Stardust,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.4799904299818065,0.15299487778657628
+What would it mean for our understanding of the Universe if we discovered that the speed of light was not a constant?,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.295550823863017,0.15142996686979446
+Would we recognize emission spectra of super heavy elements?,Jets (relativistic and non) in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.362288721360576,0.14981128897673443
+CMB Blackbody Radiation Joules Calculation,Lecture notes on high energy cosmic rays,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],15.080049372921879,0.1490694168261473
+State of Astrophysics as a career?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],61.31976615260194,0.14861931959949642
+FAQ for Wiki,Careers in astronomy in Germany and the UK,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.954556414204232,0.14708134987652255
+Any advice for a beginner?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],57.47496907602658,0.1461207728711685
+Any advice for a beginner?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],71.53192302199999,0.14517597672971236
+Help: Looking for a present for phd student in astrophysics.,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],27.12445954868538,0.1418603636162554
+Quark stars,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],30.009050411583523,0.1395008623512546
+I have so many questions,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],17.26630637973775,0.13672621639587274
+Quark stars,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.881285873231698,0.13663631294962805
+Good topic to write an Expos on?,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.813660529313083,0.13654866802695448
+Good topic to write an Expos on?,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.510105823229423,0.13581380903017626
+Dark Energy question from an amateur,Astrophysics: Most distant cosmic blast seen,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.783306541533786,0.1354271404831978
+CMB Blackbody Radiation Joules Calculation,Best-Bet Astrophysical Neutrino Sources,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.069968215137761,0.13492609257708316
+Help: Looking for a present for phd student in astrophysics.,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.288711923458614,0.134787680701498
+Is faster than light travel possible and will it ever be possible,VHE astrophysics: recent developments,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.819237892010269,0.13475618238456355
+State of Astrophysics as a career?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],54.408287565018206,0.1331124954739847
+Quark stars,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.698907334393427,0.1328916014397363
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],27.647187510712378,0.1321560166637302
+Advice for an astrophysics PhD student,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],24.536942503290007,0.13205510951306493
+Quark stars,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.556520411457493,0.13184014597574054
+Could dark energy be the answer to faster than light travel?,High energy astrophysical processes,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],28.142001906751332,0.13155007722279813
+Quark stars,Careers in astronomy in Germany and the UK,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.073280926877944,0.1314861440075307
+Advice for an astrophysics PhD student,The Role of Radioactivities in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.109802222799686,0.13122318251296838
+Do stars ever disappear from the sky?,Population synthesis in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.859208195673402,0.12922883071937166
+Sound and Light Question I've Been Thinking About Recently,Problems in High Energy Astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],10.885351235522041,0.12903186239889844
+State of Astrophysics as a career?,"TeV Astrophysics, A Review",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.11518195181247,0.12893809128052391
+Any advice for a beginner?,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.249160061122296,0.1282801224765615
+Dark Energy question from an amateur,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],33.11491360436119,0.1278426895305694
+Help: Looking for a present for phd student in astrophysics.,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.696664160292364,0.12753506315443983
+Thoughts about black holes and the beginning of the universe,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],29.66038610153292,0.1269553236290705
+Quark stars,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.3306902777739,0.12513121580628697
+Any advice for a beginner?,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.757649673370363,0.1238988612477297
+Would it be possible for a solar system to form from rogue planets?,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.882806007089593,0.12327384358331829
+State of Astrophysics as a career?,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.85603364376869,0.12271012559582568
+Would it be possible for a solar system to form from rogue planets?,Population synthesis in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.246892151721543,0.1214624593112639
+CMB Blackbody Radiation Joules Calculation,Statistical studies of Galactic open clusters I. Structural and basic  astrophysical parameters,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],7.352561890236446,0.12136336778630961
+Could dark energy be the answer to faster than light travel?,VHE astrophysics: recent developments,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.852261766782951,0.12083794735966685
+Through the Earth,SDSS-DR12 Bulk Stellar Spectral Classification: Artificial Neural  Networks Approach,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.879533038450971,0.12023893583249794
+Advice for an astrophysics PhD student,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.791068720012962,0.12016594728342497
+Good topic to write an Expos on?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],21.567729248121882,0.11956773951338494
+Question: Big Bang & Speed of Light,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.949257072550031,0.11946578808187197
+Good topic to write an Expos on?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.623254402670803,0.1187946315102232
+Would we recognize emission spectra of super heavy elements?,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.730966166517302,0.11875931001096784
+State of Astrophysics as a career?,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.674679675262752,0.11763887337678317
+Is faster than light travel possible and will it ever be possible,Superluminous supernovae: an explosive decade,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.337920726992027,0.11698801918795568
+Is faster than light travel possible and will it ever be possible,Problems in High Energy Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.729261881407059,0.11600467535456739
+Could dark energy be the answer to faster than light travel?,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.7522962629941845,0.11532953953033419
+Would we recognize emission spectra of super heavy elements?,SDSS-DR12 Bulk Stellar Spectral Classification: Artificial Neural  Networks Approach,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.2606635760744016,0.1150671310468407
+Sound and Light Question I've Been Thinking About Recently,Nuclear Astrophysics: CIPANP 2006,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],16.39292728487123,0.11502089120292432
+astrophysics and mathematics,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],27.778089069951534,0.11477692145297005
+State of Astrophysics as a career?,CosPA2013: Outlook,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.901425727119066,0.11476974033814935
+State of Astrophysics as a career?,Summary Talk: Challenges in Particle Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.542102637568024,0.11476974033814935
+Sound and Light Question I've Been Thinking About Recently,New astrophysical limit on neutrino millicharge,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],25.359021893557546,0.11435474574632021
+State of Astrophysics as a career?,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.804653282357158,0.11377021327231387
+I have so many questions,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.069737138547193,0.11319154120283723
+Would we recognize emission spectra of super heavy elements?,Astrophysics: Most distant cosmic blast seen,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],1.1303317880372008,0.11247420467446755
+Could dark energy be the answer to faster than light travel?,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],18.694187405210222,0.11211591869623119
+Any advice for a beginner?,CosPA2013: Outlook,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.9786421709415762,0.11211351140659984
+Any advice for a beginner?,Summary Talk: Challenges in Particle Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.8141245192526663,0.11211351140659984
+Any advice for a beginner?,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.749133949030531,0.11168683426262996
+Generalized Sagnac Effect,Prediction of nuclear reaction rates for astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.766979469164875,0.11066515060394286
+Stardust,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.237455970849284,0.11016089268793354
+CMB Blackbody Radiation Joules Calculation,Laboratory Investigations into the Extreme Universe,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],29.95797747037869,0.10969810938891017
+I have so many questions,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],32.39662288349554,0.1095177792602409
+Dumb question.,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.779489720643323,0.10941409995009346
+Quark stars,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.171953095415494,0.10892629978524884
+Any advice for a beginner?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],25.68827071296662,0.10883261413325522
+Galaxy morphology Datasets,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.980972540705635,0.10742800656352176
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Laboratory Investigations into the Extreme Universe,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],25.571336100203897,0.1071770182730667
+Do stars ever disappear from the sky?,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.725256921632427,0.10626735799175921
+FAQ for Wiki,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.157538469022681,0.10552523700962546
+FAQ for Wiki,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],18.7688554296952,0.10510177573633922
+Thoughts about black holes and the beginning of the universe,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],22.133718736854696,0.10467159424559919
+Advice for an astrophysics PhD student,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.358574050994285,0.10463309405453898
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",Problems in High Energy Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.27208920507257,0.10378978805976449
+Could dark energy be the answer to faster than light travel?,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.211917786963891,0.10359919013694009
+Sound and Light Question I've Been Thinking About Recently,Laboratory Investigations into the Extreme Universe,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],32.92665729371153,0.1035009751871377
+Good topic to write an Expos on?,Summary Talk: Challenges in Particle Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.0,0.10309143681745958
+Good topic to write an Expos on?,CosPA2013: Outlook,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.0,0.10309143681745958
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.325552429342778,0.10272948877000096
+Generalized Sagnac Effect,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.44107326653456,0.10134509846682613
+State of Astrophysics as a career?,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.020098094537005,0.10019365206880167
+astrophysics and mathematics,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.698797964006967,0.09979190116818304
+Any advice for a beginner?,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.675065440819585,0.09787477187792008
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],22.388843821282858,0.09781331336377862
+I have so many questions,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],60.509654616277295,0.09730087927926756
+astrophysics and mathematics,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.818744661387399,0.09705849527495747
+Sound and Light Question I've Been Thinking About Recently,Scientific Productivity with X-ray All-Sky Monitors,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],21.32469048512781,0.09680546171633918
+I have so many questions,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],21.431864962116464,0.09643716432095878
+Advice for an astrophysics PhD student,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.604728401088598,0.09529087814238967
+State of Astrophysics as a career?,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.39085194408461,0.09507180407354601
+State of Astrophysics as a career?,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],35.95613343353671,0.09504146508637056
+Dark Energy question from an amateur,High energy astrophysical processes,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.977391127046952,0.09437856075176969
+FAQ for Wiki,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],48.849594069738515,0.09390353526508298
+I have so many questions,Hydrodynamical scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.04047243579006,0.09366389111030894
+Advice for an astrophysics PhD student,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],25.838669473928995,0.09341228015712713
+Sound and Light Question I've Been Thinking About Recently,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],66.37101711790025,0.09335944741933415
+FAQ for Wiki,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],50.96221235077925,0.09329636835757035
+Dark Energy question from an amateur,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],24.000523216759234,0.09328847694952053
+Dark Energy question from an amateur,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.566392334823615,0.0928841561833539
+Any advice for a beginner?,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],27.9409850879956,0.09284182702397306
+Quark stars,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.157349636314686,0.0926293818333395
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.353118516113437,0.09257974588711995
+Any advice for a beginner?,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.967882970438987,0.09245629550296212
+Is faster than light travel possible and will it ever be possible,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.630336538059444,0.09171266264876747
+State of Astrophysics as a career?,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.76758389589251,0.09164281571561327
+Do stars ever disappear from the sky?,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.216110591104416,0.09144647208999611
+State of Astrophysics as a career?,The Role of Radioactivities in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.796463522776001,0.09100137523107305
+I have so many questions,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],29.391160302966405,0.09085130569993902
+astrophysics and mathematics,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.367906035197327,0.09084874140764862
+Help: Looking for a present for phd student in astrophysics.,CosPA2013: Outlook,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.0,0.09047826183445354
+Help: Looking for a present for phd student in astrophysics.,Summary Talk: Challenges in Particle Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.10385151594365102,0.09047826183445354
+Good topic to write an Expos on?,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],1.3955957033685336,0.08999852680095338
+State of Astrophysics as a career?,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],24.2752223350519,0.08995620722622515
+An odd question but wasn't sure where to turn.,Hydrodynamical scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.49014896650662,0.08907458815839565
+Any advice for a beginner?,The Role of Radioactivities in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.540812614411953,0.0888952409400362
+Any advice for a beginner?,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],18.597289504700335,0.08851380385204397
+Thoughts about black holes and the beginning of the universe,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.587538079409013,0.08842436897806462
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.77377963519488,0.08803473104233077
+Quark stars,High energy astrophysical processes,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],18.535115280882568,0.08794668812917195
+Any advice for a beginner?,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],18.791989876648206,0.08787426228583621
+Any advice for a beginner?,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],17.14237646890483,0.08783282515374022
+State of Astrophysics as a career?,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.979249584744402,0.08745665941064412
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",Open questions with ultra-high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.444189670800422,0.08711198091935327
+Could dark energy be the answer to faster than light travel?,Astrophysical Rates for Explosive Nucleosynthesis: Stellar and  Laboratory Rates for Exotic Nuclei,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.228764841044605,0.08698115740146614
+Thoughts about black holes and the beginning of the universe,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],34.6953230087036,0.08684116754585586
+Thoughts about black holes and the beginning of the universe,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],21.449523148321806,0.08678278003116272
+Dark Energy question from an amateur,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.962422476161617,0.08671352294449786
+State of Astrophysics as a career?,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.041708955413998,0.08655165040777904
+Through the Earth,Cosmic Accelerators,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.608139228260546,0.08646315113148215
+Thoughts about black holes and the beginning of the universe,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.755126648359854,0.08553958690347596
+Through the Earth,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.608139228260546,0.08545375253034215
+Any advice for a beginner?,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.246646071551586,0.08543256396267344
+Good topic to write an Expos on?,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.137451028493938,0.08539784836920114
+Good topic to write an Expos on?,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.474332540938013,0.08537059650150249
+Advice for an astrophysics PhD student,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.8407372098862,0.08505486883931385
+Any advice for a beginner?,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.061469265342526,0.08454850047288211
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.40617947483682,0.08437940550798632
+Could dark energy be the answer to faster than light travel?,Astrophysics: Most distant cosmic blast seen,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.292285260246819,0.0838615166571628
+I have so many questions,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.514673009175922,0.0836373753409338
+Could another universe emerge during the heat death of this one?,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.975958950439132,0.08324914496619962
+FAQ for Wiki,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.570980919514293,0.08290558915744137
+Question about time flow from an amateur.,Population synthesis in astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],9.002674966696533,0.08251878277760502
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.9814390541789715,0.08205563947847792
+Any advice for a beginner?,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.962827938703526,0.08186744651637526
+Good topic to write an Expos on?,The Role of Radioactivities in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.929389219248866,0.08174160277173433
+astrophysics and mathematics,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.586331827356478,0.08149105642205079
+Good topic to write an Expos on?,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.383301688201255,0.08139086094799484
+What would it mean for our understanding of the Universe if we discovered that the speed of light was not a constant?,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.315787893994053,0.08120930976005754
+Good topic to write an Expos on?,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.27742476107507,0.08109171575053943
+Dark Energy question from an amateur,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.2823221039459,0.0810601002215907
+"""Artificial gravity"", sci-fi & a stupid question",Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.256271282129468,0.08101177600280823
+Good topic to write an Expos on?,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.338276242601818,0.08080278500480424
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.17623662921647,0.08073977589630578
+Do stars ever disappear from the sky?,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.3711097375583075,0.08070209825306707
+State of Astrophysics as a career?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.650847561871643,0.08052435571414332
+Dark Energy question from an amateur,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.516341316795426,0.08051799906451917
+Question about time flow from an amateur.,AXAF in Context: A Revolution,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],10.497013879541706,0.08049057135651558
+Sound and Light Question I've Been Thinking About Recently,Radiation processes and models,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],21.184241758144378,0.08035822745342396
+Quark stars,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.783224860997219,0.08004668758731324
+Question about time flow from an amateur.,Cosmological and astrophysical aspects of finite-density QCD,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],11.384809898907267,0.07998373287761558
+Any advice for a beginner?,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.561365269135145,0.07964350740080042
+Could dark energy be the answer to faster than light travel?,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],18.746741705751713,0.07956862738796786
+Sound and Light Question I've Been Thinking About Recently,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.324026369090347,0.07939774736796809
+Sound and Light Question I've Been Thinking About Recently,Trends in Nuclear Astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],24.99671006332666,0.07926712550938118
+Thought experiment: Mysteries of cosmology solved in fiction?,Jets (relativistic and non) in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.592879961673638,0.07913368400147279
+Help: Looking for a present for phd student in astrophysics.,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.5458608351749863,0.07898726144471255
+I have so many questions,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.336910011540207,0.07898467052135984
+Good topic to write an Expos on?,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.45112085791745155,0.0785575766864533
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?","Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],1.2876297896710758,0.07853375540842812
+Any advice for a beginner?,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.761850445531298,0.07835363981674798
+Could another universe emerge during the heat death of this one?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],18.429875183344123,0.07779575723379811
+astrophysics and mathematics,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],48.16020229972634,0.07769279959626829
+Sound and Light Question I've Been Thinking About Recently,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],71.65332632034936,0.07727929693026014
+What would it mean for our understanding of the Universe if we discovered that the speed of light was not a constant?,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.706046132350203,0.07724143237762171
+astrophysics and mathematics,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],55.414181031432484,0.07719044900069487
+State of Astrophysics as a career?,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.574320428403466,0.07690011440073698
+State of Astrophysics as a career?,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.374130173420915,0.07688520070281787
+What would it mean for our understanding of the Universe if we discovered that the speed of light was not a constant?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],42.984020187829984,0.07634195922691529
+FAQ for Wiki,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],21.67068714492313,0.07630229611256027
+Any advice for a beginner?,High energy astrophysical processes,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],21.863190824555222,0.07612978098172497
+Advice for an astrophysics PhD student,Careers in astronomy in Germany and the UK,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.900366909782075,0.07607159819277953
+What would it mean for our understanding of the Universe if we discovered that the speed of light was not a constant?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],42.974093116566536,0.07584834297310322
+Help: Looking for a present for phd student in astrophysics.,Hydrodynamical scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.396131370541756,0.07552441160513057
+FAQ for Wiki,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],17.191191207633253,0.07540142615241266
+Do stars ever disappear from the sky?,Jets (relativistic and non) in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.32694261211588,0.07503392419360952
+CMB Blackbody Radiation Joules Calculation,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],8.038379113439543,0.07500256470758429
+Sound and Light Question I've Been Thinking About Recently,Summary Talk: Challenges in Particle Astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],5.150254936583436,0.0746772177837372
+Help: Looking for a present for phd student in astrophysics.,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.324736121238127,0.07461442254201106
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.27898126559107,0.07438862555456408
+State of Astrophysics as a career?,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.562286195253304,0.07426904039930515
+Any advice for a beginner?,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.681204432148647,0.07421801673500168
+Any advice for a beginner?,"TeV Astrophysics, A Review",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],1.2250290949176454,0.07372165122839452
+Dark Energy question from an amateur,Jets (relativistic and non) in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.798318433577556,0.07352093560324545
+Advice for an astrophysics PhD student,The Source of Turbulence in Astrophysical Disks: An Ill-posed Problem.,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.278469299388741,0.07320570758096309
+"If two planets were close enough and of equal gravity, could we “jump” between them and have the gravity switch from one to the other during the jump?",Best-Bet Astrophysical Neutrino Sources,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.865909730235749,0.07303348750493381
+Question: Big Bang & Speed of Light,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.403983615489539,0.07244364234801455
+Quark stars,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],17.553963672095687,0.07237061849238013
+Help: Looking for a present for phd student in astrophysics.,The Role of Radioactivities in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.945133685473345,0.0717405670797316
+Help: Looking for a present for phd student in astrophysics.,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.694097796105746,0.07143273830612758
+Stardust,Population synthesis in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.502952879757428,0.07117948953266622
+Help: Looking for a present for phd student in astrophysics.,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.065439151109201,0.07117019334276836
+Sound and Light Question I've Been Thinking About Recently,The Role of Radioactivities in Astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],7.665238263477237,0.0704719244359133
+Do stars ever disappear from the sky?,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.991598156508662,0.0704522253794636
+CMB Blackbody Radiation Joules Calculation,Problems in High Energy Astrophysics,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],13.9939400434172,0.06981886149747327
+Question: Big Bang & Speed of Light,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],17.27446502307286,0.06972685680643634
+I have so many questions,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],59.727014792775165,0.06970193610637049
+Generalized Sagnac Effect,Effective geometry in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.67628518422671,0.06940708259043014
+Good topic to write an Expos on?,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.6567404148048452,0.06907520450635554
+Help: Looking for a present for phd student in astrophysics.,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.7535638670622884,0.06894610466146218
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Cosmological and astrophysical aspects of finite-density QCD,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],14.660251656739357,0.06826552848205865
+Through the Earth,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],30.788083368790875,0.06823680499216411
+Help: Looking for a present for phd student in astrophysics.,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.6431618782018385,0.06823264446470206
+astrophysics and mathematics,Jets (relativistic and non) in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.707728043807025,0.06794078277596237
+Thoughts about black holes and the beginning of the universe,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.471949494380231,0.06789975208669972
+CMB Blackbody Radiation Joules Calculation,"TeV Astrophysics, A Review",[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.0101558481611725,0.06781661441542022
+Good topic to write an Expos on?,"TeV Astrophysics, A Review",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.767318937845646,0.06778907247073727
+State of Astrophysics as a career?,The Source of Turbulence in Astrophysical Disks: An Ill-posed Problem.,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.879772571599449,0.06755141255648911
+State of Astrophysics as a career?,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.0214556903541885,0.06725955145077755
+Quark stars,SDSS-DR12 Bulk Stellar Spectral Classification: Artificial Neural  Networks Approach,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.128144429043009,0.06715311623546
+astrophysics and mathematics,Summary Talk: Challenges in Particle Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.9375967560796927,0.06698681745884832
+astrophysics and mathematics,CosPA2013: Outlook,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.6315905257906964,0.06698681745884832
+"""Artificial gravity"", sci-fi & a stupid question","TeV Astrophysics, A Review",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.048244482437013,0.06687583069767535
+Help: Looking for a present for phd student in astrophysics.,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.710737508565447,0.06658037162980877
+astrophysics and mathematics,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.36912805882011,0.06652995686066224
+State of Astrophysics as a career?,Careers in astronomy in Germany and the UK,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.63420004131451,0.06645534592057599
+Cosmic speed limit,Problems in High Energy Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.209260188345517,0.06644661759852832
+Am i screwed if i end my sophomore first semester with a 2.99?,Cosmic Accelerators,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.521896568671234,0.06613060531991578
+Would we recognize emission spectra of super heavy elements?,Best-Bet Astrophysical Neutrino Sources,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.416177910779803,0.0656625649526873
+I have so many questions,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],22.239797440899956,0.06550849623012343
+Question about time flow from an amateur.,Scientific Productivity with X-ray All-Sky Monitors,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],18.603966681089926,0.0647954029670719
+An odd question but wasn't sure where to turn.,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.588961906457387,0.0647476748855034
+State of Astrophysics as a career?,VHE astrophysics: recent developments,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.762841751254333,0.06449746864784085
+Stardust,Remarks about the thermodynamics of astrophysical systems in mutual  interaction and related notions,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.488901256636556,0.06448511955040806
+astrophysics and mathematics,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.033073081446094,0.06435025076329093
+Do stars ever disappear from the sky?,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.108713314231519,0.06434270849733247
+Do stars ever disappear from the sky?,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.3086238268795,0.06415517491909409
+FAQ for Wiki,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],21.41996228915502,0.06395274107116185
+Thoughts about black holes and the beginning of the universe,Astrophysical Rates for Explosive Nucleosynthesis: Stellar and  Laboratory Rates for Exotic Nuclei,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.190257209824099,0.06383325888504886
+Thoughts about black holes and the beginning of the universe,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.068658670008213,0.06355718463349819
+Thoughts about black holes and the beginning of the universe,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],30.16731254847742,0.0635512188387857
+Advice for an astrophysics PhD student,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.493123964066514,0.06329740187469296
+Any advice for a beginner?,VHE astrophysics: recent developments,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.669830918830035,0.06300474032302861
+Any advice for a beginner?,Cosmic Accelerators,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.339803181885022,0.06229247428025942
+Am i screwed if i end my sophomore first semester with a 2.99?,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.867896383454352,0.06225900388514727
+Question: Big Bang & Speed of Light,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.854905626355363,0.06208398563187589
+Dark Energy question from an amateur,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.633269847600725,0.06208151396263055
+I have so many questions,CosPA2013: Outlook,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.0903879139744443,0.06166206861664446
+Dark Energy question from an amateur,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.818733038036457,0.06114738894843976
+I have so many questions,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.611119983050816,0.061108187953887796
+Help: Looking for a present for phd student in astrophysics.,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],1.6188300754479785,0.0606238949861643
+FAQ for Wiki,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],31.90508294228146,0.06034102104659873
+Question about time flow from an amateur.,Problems in High Energy Astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],11.639987639719642,0.060273941297469685
+I have so many questions,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.479615660558856,0.05998294077655736
+State of Astrophysics as a career?,Effective geometry in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.699287190519088,0.05989546287514498
+Thought experiment: Mysteries of cosmology solved in fiction?,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.695991265396296,0.05965163321085918
+Help: Looking for a present for phd student in astrophysics.,"TeV Astrophysics, A Review",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.31187528404691267,0.05949512042772648
+"""Artificial gravity"", sci-fi & a stupid question",Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.748868455117831,0.05879712162750975
+Any advice for a beginner?,Effective geometry in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.017218445461835,0.05850924329419306
+astrophysics and mathematics,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.9076706905419565,0.058479298305402105
+Thought experiment: Mysteries of cosmology solved in fiction?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],17.47392016612278,0.05822912186114647
+Advice for an astrophysics PhD student,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.98610735049855,0.05817881128648781
+Good topic to write an Expos on?,VHE astrophysics: recent developments,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.425185459140176,0.05793458009405986
+Sound and Light Question I've Been Thinking About Recently,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],16.52162383643514,0.057818318274702366
+astrophysics and mathematics,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.023932383719051,0.057457585692085325
+If you visit close to a star and there is only one H atom per centimeter but its a million degrees C...?,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.468381014891158,0.05723485682255361
+astrophysics and mathematics,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.849653987222833,0.05722154940941494
+Quark stars,Problems in High Energy Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.320368340641867,0.05696878195994972
+Dumb question.,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.492963414937861,0.05649051768821254
+Dark Energy question from an amateur,Superluminous supernovae: an explosive decade,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.24411210384608,0.05646999761852918
+Dark Energy question from an amateur,SDSS-DR12 Bulk Stellar Spectral Classification: Artificial Neural  Networks Approach,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.474545741235557,0.05646999761852918
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Radiation processes and models,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],18.325586988820536,0.05614086438443985
+Thought experiment: Mysteries of cosmology solved in fiction?,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.776148479091653,0.05581784729150395
+Advice for an astrophysics PhD student,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],26.66460937022148,0.05558605457845714
+Question about time flow from an amateur.,Effective geometry in Astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],9.137438949749837,0.05540368113222957
+astrophysics and mathematics,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.681077155471096,0.05524180727260386
+FAQ for Wiki,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.684700570168755,0.055182477401441
+Question: Big Bang & Speed of Light,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.383649098807087,0.05501551984601792
+State of Astrophysics as a career?,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.082176817037796,0.05495276747365061
+Could another universe emerge during the heat death of this one?,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.16123281737792,0.054920491655626784
+astrophysics and mathematics,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.445126849721852,0.05467851940513398
+Could dark energy be the answer to faster than light travel?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.156619689965034,0.054659191048861175
+Dumb question.,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.534141230304094,0.054372007123071005
+Is there a possibility that........,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.185954678219117,0.054291368704369736
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Cosmic Accelerators,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],14.897599063455296,0.05403878157412339
+Galaxy morphology Datasets,Problems in High Energy Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.319021054955531,0.05395565912079825
+Good topic to write an Expos on?,Effective geometry in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],1.3955957033685336,0.05380084775353489
+Any advice for a beginner?,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.825642811523803,0.053680941551572575
+Dark Energy question from an amateur,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.845538742212812,0.05362872180354807
+Dumb question.,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.063774683849372,0.05354842924015683
+Advice for an astrophysics PhD student,Effective geometry in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.143146067151687,0.053495175136924936
+CMB Blackbody Radiation Joules Calculation,Cosmological and astrophysical aspects of finite-density QCD,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],9.21886522409635,0.053301632972314494
+Sound and Light Question I've Been Thinking About Recently,Cosmic Accelerators,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],14.299292558645464,0.05318207305839065
+astrophysics and mathematics,The Role of Radioactivities in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.648561961242297,0.053114109112276015
+Question about time flow from an amateur.,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],65.59455533149406,0.05303893956879803
+Would we recognize emission spectra of super heavy elements?,Population synthesis in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.478956976231127,0.052840232798643236
+I have so many questions,Population synthesis in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.9629153085855355,0.05275053860944269
+Question about time flow from an amateur.,Hydrodynamical scaling laws for astrophysical jets,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],19.036956425004192,0.05269313345544092
+astrophysics and mathematics,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.961130567258781,0.05269182512243561
+astrophysics and mathematics,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.117279364503773,0.052504083524100124
+Could another universe emerge during the heat death of this one?,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],23.836772841347145,0.052292241738219634
+Is there a possibility that........,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.465831761063003,0.05225533074785794
+Sound and Light Question I've Been Thinking About Recently,"Reply to Comment [arXiv:0809.2310] on Universal Charge-Radius Relation  for Subatomic and Astrophysical Compact Objects [arXiv:0804.2140, PRL100  (2008) 151102]",[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],3.526039420531621,0.052112929121725736
+What exactly is infinite,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.7370346189393615,0.05124233048936779
+astrophysics and mathematics,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.632649981441556,0.05104519067692049
+"""Artificial gravity"", sci-fi & a stupid question",Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.559361357481539,0.05095587392435789
+Could dark energy be the answer to faster than light travel?,Hydrodynamical scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.300128969247996,0.05090333668778921
+Advice for an astrophysics PhD student,"TeV Astrophysics, A Review",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.8602488201760883,0.050879190199088944
+Help: Looking for a present for phd student in astrophysics.,VHE astrophysics: recent developments,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.8892772749235904,0.05084631923697965
+Sound and Light Question I've Been Thinking About Recently,Cosmological and astrophysical aspects of finite-density QCD,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],11.358415185098883,0.05046257678913423
+Stardust,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.2929482235929357,0.050368893432643294
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Astrophysical Quark Matter,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],9.837783113429536,0.05031983176458645
+CMB Blackbody Radiation Joules Calculation,SDSS-DR12 Bulk Stellar Spectral Classification: Artificial Neural  Networks Approach,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.516221258305265,0.05031609928456792
+I have so many questions,Astrophysical Rates for Explosive Nucleosynthesis: Stellar and  Laboratory Rates for Exotic Nuclei,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.695938935060248,0.04988674862655778
+CMB Blackbody Radiation Joules Calculation,Isolated neutron stars and studies of their interiors,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],11.327931397768817,0.04970205474893376
+An odd question but wasn't sure where to turn.,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],33.83498561214157,0.04952898260181936
+Dumb question.,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.689798410578391,0.049447947548011045
+Good topic to write an Expos on?,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.3703887024606516,0.049361092386050354
+Any advice for a beginner?,Problems in High Energy Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.022780650178959,0.049314203703004766
+Is faster than light travel possible and will it ever be possible,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.64732863167192,0.04923642969704961
+Would we recognize emission spectra of super heavy elements?,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.781990728223205,0.04895271550631722
+Do stars ever disappear from the sky?,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.348924489128269,0.048927247597930296
+Dumb question.,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.464064478379896,0.048412205333962455
+Question about time flow from an amateur.,Radiation processes and models,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],15.364208465862724,0.048389700263524044
+Dark Energy question from an amateur,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.490203752801786,0.0483695679881835
+CMB Blackbody Radiation Joules Calculation,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.291349899070335,0.04835042421527771
+Would it be possible for a solar system to form from rogue planets?,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.174560504019563,0.048325683995484814
+Quark stars,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.485406559064383,0.04832104864464581
+I have so many questions,Jets (relativistic and non) in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.649450297398218,0.04812702129803371
+Quark stars,Open questions with ultra-high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.240971234259577,0.04781456383971343
+Through the Earth,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.608139228260546,0.04780603878948998
+Question about time flow from an amateur.,Open issues in neutrino astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],22.38896157241239,0.04758284475979511
+Advice for an astrophysics PhD student,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.991578489247079,0.04743324534576378
+Is faster than light travel possible and will it ever be possible,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],17.38019887982312,0.04732890824675714
+State of Astrophysics as a career?,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.620989880672356,0.04728862006183434
+Help: Looking for a present for phd student in astrophysics.,Effective geometry in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],1.6636361919385858,0.04721834654976395
+State of Astrophysics as a career?,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.347742316317564,0.04709435798211829
+Is there a possibility that........,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.51680002328967,0.04652754120761496
+Question about time flow from an amateur.,Simple scaling laws for astrophysical jets,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],15.586800470412143,0.04645290619601512
+Quark stars,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.92418234806706,0.04626477467625664
+Any advice for a beginner?,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.187280327037119,0.046194173037982844
+FAQ for Wiki,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.157538469022681,0.04612279294591663
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Superluminous supernovae: an explosive decade,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],3.1585271137215054,0.045943553091179735
+Question: Big Bang & Speed of Light,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.085834673011645,0.04592089291400145
+Generalized Sagnac Effect,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.069528001894604,0.04580162738202267
+Dark Energy question from an amateur,Problems in High Energy Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.67419302333168,0.04579487873056613
+CMB Blackbody Radiation Joules Calculation,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],12.036782773880628,0.045768117225746155
+Dark Energy question from an amateur,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.996136419994372,0.04552329729735933
+Sound and Light Question I've Been Thinking About Recently,Effective geometry in Astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],7.7954241131294655,0.04549868290687649
+Sound and Light Question I've Been Thinking About Recently,AXAF in Context: A Revolution,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],10.731160399613254,0.045466013917580136
+Could dark energy be the answer to faster than light travel?,Best-Bet Astrophysical Neutrino Sources,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.101348156962656,0.04497148511021171
+astrophysics and mathematics,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.1624720533638695,0.04488372902778482
+Could dark energy be the answer to faster than light travel?,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.142674312709552,0.044875067568749524
+Would it be possible for a solar system to form from rogue planets?,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.3809718491903,0.04486531947310983
+If you visit close to a star and there is only one H atom per centimeter but its a million degrees C...?,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.284938421231766,0.044732729506773164
+Advice for an astrophysics PhD student,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.2667256131730085,0.044617227631596354
+Thought experiment on motion,Open questions with ultra-high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.898924033463553,0.04461065263801097
+Stardust,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.5373988519112136,0.04445087157325258
+astrophysics and mathematics,"TeV Astrophysics, A Review",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],1.5920358228253257,0.04404802535968591
+Question: Big Bang & Speed of Light,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.299262642248502,0.04373529778517292
+Quark stars,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],39.735541405852956,0.04355862349420821
+Advice for an astrophysics PhD student,VHE astrophysics: recent developments,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.2795790707029004,0.04348288613894889
+Would we recognize emission spectra of super heavy elements?,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.912464788123956,0.04345154176450804
+Any advice for a beginner?,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.824227943679437,0.04332518391074033
+Help: Looking for a present for phd student in astrophysics.,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.4301551259690175,0.04332179256796753
+Quark stars,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],42.025920946675384,0.04327697962800204
+Quark stars,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.116911601279018,0.043106094269915546
+Dumb question.,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.8617943636159096,0.04290031666350719
+Thoughts about black holes and the beginning of the universe,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.648253588140609,0.042869183905404326
+Question: Big Bang & Speed of Light,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],21.082325351643743,0.04278153183030799
+"""Artificial gravity"", sci-fi & a stupid question",Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.480210834200521,0.04265336504565812
+CMB Blackbody Radiation Joules Calculation,Primeval galaxies,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],7.987102297890669,0.04249406204224417
+"""Artificial gravity"", sci-fi & a stupid question",Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.60857186981673,0.04247814463555051
+Good topic to write an Expos on?,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.99681096362446,0.04247680419007609
+Thought experiment: Mysteries of cosmology solved in fiction?,Best-Bet Astrophysical Neutrino Sources,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.685868924805062,0.04241013438255252
+Good topic to write an Expos on?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.928215973694853,0.04233559944120269
+FAQ for Wiki,CosPA2013: Outlook,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.354505673391513,0.04233541611056062
+FAQ for Wiki,Summary Talk: Challenges in Particle Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.293630294818406,0.04233541611056062
+Good topic to write an Expos on?,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.369005984158608,0.042302309093563105
+"""Artificial gravity"", sci-fi & a stupid question",Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],26.150682131512415,0.042138417740374315
+State of Astrophysics as a career?,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.19776697270101,0.042011791790517776
+CMB Blackbody Radiation Joules Calculation,Open questions with ultra-high energy cosmic rays,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],5.88594693056351,0.0418759174794243
+Thought experiment: Mysteries of cosmology solved in fiction?,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.248858224906153,0.041874767546422435
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.261529613908072,0.04168595949235958
+"""Artificial gravity"", sci-fi & a stupid question",AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.595689659214345,0.041619906022658734
+Advice for an astrophysics PhD student,CosPA2013: Outlook,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.1303458207073955,0.04145879280373654
+Advice for an astrophysics PhD student,Summary Talk: Challenges in Particle Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.55167971018318,0.04145879280373654
+Any advice for a beginner?,Open questions with ultra-high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.179497390589859,0.04138998693740081
+Is there a possibility that........,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.6912825025146425,0.041230227741366324
+Advice for an astrophysics PhD student,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.665076429161019,0.04115552254263617
+Stardust,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.839096686493957,0.04103155550049792
+Quark stars,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.093149877166296,0.04083088971217541
+Question about time flow from an amateur.,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],71.84859179747974,0.04063064720684052
+Advice for an astrophysics PhD student,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.852047490852208,0.040623701461483044
+"""Artificial gravity"", sci-fi & a stupid question",Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.440829196498731,0.04059033842531501
+Through the Earth,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],30.779414147553293,0.040570778972458234
+Good topic to write an Expos on?,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.422918372540408,0.040422317335465086
+CMB Blackbody Radiation Joules Calculation,New astrophysical limit on neutrino millicharge,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],21.021470759425462,0.04041780713793053
+Advice for an astrophysics PhD student,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.16205874163386,0.04025555567748034
+Question: Big Bang & Speed of Light,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.50078424560297,0.04022225997308428
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.520155015198569,0.04012265029965495
+Quark stars,Best-Bet Astrophysical Neutrino Sources,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.775055750201082,0.040087073142952206
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,High energy astrophysical processes,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],17.87052282915631,0.039846306356439445
+Would it be possible for a solar system to form from rogue planets?,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.90070110692575,0.03969456047514594
+If you visit close to a star and there is only one H atom per centimeter but its a million degrees C...?,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.465266710482137,0.039577251593832775
+Question about time flow from an amateur.,Nuclear Astrophysics: CIPANP 2006,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],14.001114516953983,0.039542186754855456
+State of Astrophysics as a career?,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.568816025041473,0.03952492411573297
+Good topic to write an Expos on?,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.796714147385976,0.03942924551469898
+Thought experiment: Mysteries of cosmology solved in fiction?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],48.77217492879943,0.039425399696114694
+Thought experiment: Mysteries of cosmology solved in fiction?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],50.27293094401453,0.039170480667311734
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],48.70142315587241,0.038888252242142436
+An odd question but wasn't sure where to turn.,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],42.254273906066715,0.038613208567149455
+Galaxy morphology Datasets,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.567676428595096,0.038409493740223365
+Question about time flow from an amateur.,Cosmic Accelerators,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],12.966531164028883,0.03831828175275871
+CMB Blackbody Radiation Joules Calculation,Effective geometry in Astrophysics,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],7.52975896045707,0.0376588651545091
+astrophysics and mathematics,VHE astrophysics: recent developments,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.7897093529400365,0.037644767219487944
+Would we recognize emission spectra of super heavy elements?,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.43495816843827,0.037391446219482746
+Help: Looking for a present for phd student in astrophysics.,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.9569878787356627,0.03727979287169687
+Help: Looking for a present for phd student in astrophysics.,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.481694775901717,0.037155864438499664
+Help: Looking for a present for phd student in astrophysics.,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.8100791576430755,0.03712664714477208
+Advice for an astrophysics PhD student,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],22.205310664830623,0.03704653565806151
+Advice for an astrophysics PhD student,Population synthesis in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.098872679584632,0.03700642493775605
+FAQ for Wiki,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.138825578205969,0.03695869607678724
+I have so many questions,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.149146074187575,0.03687900335778901
+Thought experiment: Mysteries of cosmology solved in fiction?,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.335220130552233,0.036697242086026476
+Advice for an astrophysics PhD student,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.468647400004657,0.036193406460024564
+Question about time flow from an amateur.,Open questions with ultra-high energy cosmic rays,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.084280483815563,0.03615107061039442
+Thoughts about black holes and the beginning of the universe,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],22.793846311008508,0.03596691252978526
+Would it be possible for a solar system to form from rogue planets?,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.455276068925608,0.03577475110983416
+Good topic to write an Expos on?,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.3400705488196154,0.035745104165097956
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.725176849718277,0.03572474307326904
+Would it be possible for a solar system to form from rogue planets?,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.090737049832722,0.03562778810810493
+Good topic to write an Expos on?,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.943348738961398,0.03550309694163828
+Help: Looking for a present for phd student in astrophysics.,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.956828689654421,0.03547667124195298
+Stardust,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.79004181444658,0.03533679424474971
+FAQ for Wiki,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.30633375519341,0.03506938652972963
+Advice for an astrophysics PhD student,SDSS-DR12 Bulk Stellar Spectral Classification: Artificial Neural  Networks Approach,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.524714380152198,0.035045612689281254
+astrophysics and mathematics,Effective geometry in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.763707098353835,0.03495874806729792
+FAQ for Wiki,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.208915402157857,0.0349126139485846
+Question about time flow from an amateur.,Jets (relativistic and non) in astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],11.107721595589219,0.03474535320847229
+Any advice for a beginner?,Best-Bet Astrophysical Neutrino Sources,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.867506360780942,0.03470079616970876
+CMB Blackbody Radiation Joules Calculation,Radiation processes and models,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],17.484356825509078,0.03461031292359289
+Help: Looking for a present for phd student in astrophysics.,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.31187528404691267,0.03460510115821469
+Quark stars,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.059242303674957,0.03459247140774183
+Sound and Light Question I've Been Thinking About Recently,Open questions with ultra-high energy cosmic rays,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],9.124145896429338,0.034325752844533035
+Would it be possible for a solar system to form from rogue planets?,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.04855982344026,0.03427444517718578
+CMB Blackbody Radiation Joules Calculation,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],48.546678759211694,0.034176091015271484
+Advice for an astrophysics PhD student,Cosmic Accelerators,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.773318641056871,0.03413439013136345
+Would it be possible for a solar system to form from rogue planets?,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.079152743826485,0.03404442423417655
+CMB Blackbody Radiation Joules Calculation,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],55.418058277812044,0.033955113270035
+Question about time flow from an amateur.,Physics near a black-hole horizon,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],8.063524623290286,0.03383502301632028
+An odd question but wasn't sure where to turn.,Cosmic Accelerators,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.835240480805789,0.03365027723429066
+FAQ for Wiki,The Role of Radioactivities in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.338583739270284,0.03356791673214361
+FAQ for Wiki,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.519030059393397,0.03330103484246877
+Help: Looking for a present for phd student in astrophysics.,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.20770303188730205,0.03311982658980987
+Advice for an astrophysics PhD student,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.039468058678237,0.03308472822728136
+Is there a possibility that........,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.24845084585894,0.03277650185013515
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],52.691945238726795,0.03272909635280591
+Question about time flow from an amateur.,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],10.190575427872595,0.03270529662558427
+Sound and Light Question I've Been Thinking About Recently,Jets (relativistic and non) in astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],11.681600388062694,0.03253404944203569
+Dumb question.,Remarks about the thermodynamics of astrophysical systems in mutual  interaction and related notions,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.804000840708007,0.03248807932893096
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Isolated neutron stars and studies of their interiors,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],8.697702010898283,0.03243099436966439
+Is faster than light travel possible and will it ever be possible,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.360041578661933,0.03231318691063239
+FAQ for Wiki,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.705461614834105,0.032260368080300375
+astrophysics and mathematics,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.342555730953301,0.0320738810837265
+FAQ for Wiki,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],18.726155646318087,0.03195544230197726
+I have so many questions,Cosmological and astrophysical aspects of finite-density QCD,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.419843767925425,0.03186835151748242
+Dark Energy question from an amateur,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.846772392834989,0.031738415951012226
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.002374759630545,0.031657363674992826
+Advice for an astrophysics PhD student,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.339060386468898,0.031592364948547516
+Thoughts about black holes and the beginning of the universe,Superluminous supernovae: an explosive decade,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.0428754666541105,0.03148131796364977
+Would it be possible for a solar system to form from rogue planets?,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.704832595088102,0.03146982310965958
+If you visit close to a star and there is only one H atom per centimeter but its a million degrees C...?,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.13044174675129,0.03137682070076709
+Help: Looking for a present for phd student in astrophysics.,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.395321538158393,0.03137171227592991
+Thought experiment: Mysteries of cosmology solved in fiction?,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.866040863346777,0.03131003466874894
+Help: Looking for a present for phd student in astrophysics.,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.504918361468279,0.031159314489983967
+Question about time flow from an amateur.,High energy astrophysical processes,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],16.699500812577778,0.031016364490826027
+Is faster than light travel possible and will it ever be possible,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.376641583583056,0.030968340765740187
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Sources of GeV Photons and the Fermi Results,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],5.863757871829848,0.030371471246640396
+Would it be possible for a solar system to form from rogue planets?,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.090390583000412,0.029901365720262037
+If you visit close to a star and there is only one H atom per centimeter but its a million degrees C...?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.791949461514395,0.0298806351559789
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Open issues in neutrino astrophysics,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],19.154904242378425,0.029878393908415898
+Thoughts about black holes and the beginning of the universe,Sources of GeV Photons and the Fermi Results,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.74791479589828,0.02974352666300745
+Question about time flow from an amateur.,Laboratory Investigations into the Extreme Universe,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],21.689015978085436,0.029666520398431755
+Is faster than light travel possible and will it ever be possible,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.411393511151045,0.029512464628067954
+I have so many questions,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.540169840230801,0.028824560736768267
+Question: Big Bang & Speed of Light,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.9864174484818,0.028756609408384086
+Thought experiment on motion,Cosmic Accelerators,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.312545816859789,0.028720072452250188
+"""Artificial gravity"", sci-fi & a stupid question",Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],26.08917694696845,0.02857515049429339
+FAQ for Wiki,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.752127125022821,0.02836634754520532
+Any advice for a beginner?,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.13802208198014,0.02806922845014861
+FAQ for Wiki,"TeV Astrophysics, A Review",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],1.1201698916744953,0.027838185977359167
+CMB Blackbody Radiation Joules Calculation,Astrophysical Quark Matter,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],5.997302288965336,0.02769252105822109
+Thought experiment: Mysteries of cosmology solved in fiction?,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.530777249403252,0.0275408233675846
+Sound and Light Question I've Been Thinking About Recently,Hydrodynamical scaling laws for astrophysical jets,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],13.5013407168971,0.027527854593015662
+Question: Big Bang & Speed of Light,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],44.40737293022856,0.027499780517312014
+Sound and Light Question I've Been Thinking About Recently,Population synthesis in astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],5.6810284012792,0.026788640922526454
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Open questions with ultra-high energy cosmic rays,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],11.67108759608432,0.026753687193253106
+Would we recognize emission spectra of super heavy elements?,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.5404451816305116,0.02630901848270487
+Thought experiment: Mysteries of cosmology solved in fiction?,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],22.42195358248861,0.026222842327009502
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Best-Bet Astrophysical Neutrino Sources,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],9.413980500112027,0.026217491576971536
+Cosmic speed limit,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.7354124980089125,0.026068783504014093
+FAQ for Wiki,Hydrodynamical scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.058438788027328,0.026047276463025112
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Lecture notes on high energy cosmic rays,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],8.955073628384309,0.025835503511595352
+Thoughts about black holes and the beginning of the universe,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.023533846382648,0.02569987512619445
+Sound and Light Question I've Been Thinking About Recently,Astrophysical Quark Matter,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],7.985372470605519,0.025565689246886392
+What would it mean for our understanding of the Universe if we discovered that the speed of light was not a constant?,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.434152448692868,0.025464002879960708
+Thoughts about black holes and the beginning of the universe,Hydrodynamical scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.170445689669588,0.025340939088759912
+Dark Energy question from an amateur,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.552555066068038,0.024657183425114738
+Sound and Light Question I've Been Thinking About Recently,Sources of GeV Photons and the Fermi Results,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],5.1833122129535925,0.024533384903673044
+astrophysics and mathematics,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.817094979615295,0.02452071617047222
+An odd question but wasn't sure where to turn.,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.59290592254154,0.02447635593767513
+Sound and Light Question I've Been Thinking About Recently,Astrophysics: Most distant cosmic blast seen,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.489497911148618,0.024425671528672623
+Sound and Light Question I've Been Thinking About Recently,VHE astrophysics: recent developments,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],3.8749076022880664,0.02436881277088701
+Advice for an astrophysics PhD student,Problems in High Energy Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.963242414476085,0.02431473040674949
+Sound and Light Question I've Been Thinking About Recently,Simple scaling laws for astrophysical jets,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],17.441729623906888,0.02426784598544046
+Do stars ever disappear from the sky?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.243445757344336,0.024255463054658925
+Dark Energy question from an amateur,Best-Bet Astrophysical Neutrino Sources,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.031865247836547,0.02420800336288094
+Dark Energy question from an amateur,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.68884333365109,0.024156102115629775
+Would it be possible for a solar system to form from rogue planets?,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.559760183963995,0.023966899112534665
+FAQ for Wiki,VHE astrophysics: recent developments,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.4054113439998606,0.02379135097142461
+Do stars ever disappear from the sky?,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.2320043010076915,0.023664035854052086
+Thoughts about black holes and the beginning of the universe,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.692426276913954,0.02362048177792971
+Cosmic speed limit,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],0.0,0.023555214608732215
+Cosmic speed limit,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.412088959120865,0.023458449573675856
+I have so many questions,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.21566792072639,0.023406584061680745
+Sound and Light Question I've Been Thinking About Recently,Isolated neutron stars and studies of their interiors,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],10.22368769696546,0.02327617561402289
+astrophysics and mathematics,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.670962335281727,0.0232264758516724
+Advice for an astrophysics PhD student,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.572861009295565,0.023146396548642006
+Question about time flow from an amateur.,New astrophysical limit on neutrino millicharge,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],24.53861931334818,0.02299996584261317
+Sound and Light Question I've Been Thinking About Recently,Remarks about the thermodynamics of astrophysical systems in mutual  interaction and related notions,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],22.76350631035639,0.022972177558814713
+FAQ for Wiki,Simple scaling laws for astrophysical jets,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.386165053636415,0.022962606526745477
+Galaxy morphology Datasets,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],17.80085190287668,0.022900663347742913
+Help: Looking for a present for phd student in astrophysics.,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.152931111559742,0.022652532860139598
+Cosmic speed limit,Trends in Nuclear Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.895057962506505,0.022567366276432507
+I have so many questions,Cosmic Accelerators,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.991321401990774,0.0225559989665406
+Generalized Sagnac Effect,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.6065626618986695,0.022461265631016872
+Cosmic speed limit,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.582925560888397,0.022415913296076315
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Hydrodynamical scaling laws for astrophysical jets,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],13.658338838366047,0.022293322657008507
+Sound and Light Question I've Been Thinking About Recently,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],33.79078156629984,0.022219229740873262
+FAQ for Wiki,Effective geometry in Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.525581235674356,0.02209379699285626
+Advice for an astrophysics PhD student,Remarks about the thermodynamics of astrophysical systems in mutual  interaction and related notions,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],25.953801618262133,0.021869708457841718
+Question about time flow from an amateur.,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],30.400914556263622,0.021847614876732258
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Nuclear Astrophysics: CIPANP 2006,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],9.241660941953244,0.021815956537113042
+An odd question but wasn't sure where to turn.,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.833101213605348,0.021793463809414576
+Question about time flow from an amateur.,Superluminous supernovae: an explosive decade,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],1.3157923402646472,0.021718698569049694
+Dark Energy question from an amateur,Radiation processes and models,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.2720381072182,0.021508313515868262
+Thought experiment on motion,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.495731764111712,0.021283792464242425
+CMB Blackbody Radiation Joules Calculation,AXAF in Context: A Revolution,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],9.874249778851764,0.02119763567852279
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,"Proceedings ""Neutrino Astrophysics""",[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],8.502896383092416,0.02117873938694537
+I have so many questions,Best-Bet Astrophysical Neutrino Sources,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.75334223894171,0.020990731319565796
+CMB Blackbody Radiation Joules Calculation,Remarks about the thermodynamics of astrophysical systems in mutual  interaction and related notions,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],20.948103525114387,0.020932690050641287
+I have so many questions,Problems in High Energy Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.94823998356005,0.02087189356757227
+CMB Blackbody Radiation Joules Calculation,Open issues in neutrino astrophysics,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],17.824428375071747,0.020859057526623162
+Question about time flow from an amateur.,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],13.47263481110793,0.02084133892342057
+CMB Blackbody Radiation Joules Calculation,Trends in Nuclear Astrophysics,[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],19.38940490218131,0.02035598228693842
+FAQ for Wiki,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.474002618961636,0.020270571934461114
+Sound and Light Question I've Been Thinking About Recently,Primeval galaxies,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.7366275059940826,0.020263633439499266
+State of Astrophysics as a career?,Remarks about the thermodynamics of astrophysical systems in mutual  interaction and related notions,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],21.13689503543095,0.020180526182223255
+Would it be possible for a solar system to form from rogue planets?,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.128386311687397,0.02009521166883228
+If you visit close to a star and there is only one H atom per centimeter but its a million degrees C...?,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.414173036648478,0.020035824519247944
+Dark Energy question from an amateur,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],19.2756831663986,0.019924821659366248
+Cosmic speed limit,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.466291696817724,0.019687994040057655
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Simple scaling laws for astrophysical jets,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],14.851386100705247,0.01965321775861449
+Question about time flow from an amateur.,"Proceedings ""Neutrino Astrophysics""",[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],13.469342998146022,0.019597096065446677
+"If time moves slower and slower closer to a black hole, could an accretion disk around a sufficiently fast-spinning, last effectively forever, at least to an outside observer?",Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],43.25143481173208,0.01957066727303727
+Could dark energy be the answer to faster than light travel?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],42.95824945813012,0.019552311544611723
+Could dark energy be the answer to faster than light travel?,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],3.8909526523308555,0.019437475641205744
+Could dark energy be the answer to faster than light travel?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],46.00964312484523,0.019425889078175794
+Thoughts about black holes and the beginning of the universe,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],54.13282334624756,0.019404769517018368
+I have so many questions,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.600786184209678,0.019364091548986058
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,AXAF in Context: A Revolution,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],11.512142900985086,0.01935552862903253
+Thoughts about black holes and the beginning of the universe,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],57.981805135955355,0.01927930103635485
+Thought experiment: Mysteries of cosmology solved in fiction?,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.073385960227753,0.018748528275547995
+An odd question but wasn't sure where to turn.,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],13.94583067093018,0.01860545721139987
+Could dark energy be the answer to faster than light travel?,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],24.56678495271009,0.018507284701384318
+An odd question but wasn't sure where to turn.,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.655251048089767,0.018415298140411773
+Question about time flow from an amateur.,Astrophysical Rates for Explosive Nucleosynthesis: Stellar and  Laboratory Rates for Exotic Nuclei,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],4.485206250787099,0.01800789509408966
+Would it be possible for a solar system to form from rogue planets?,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],18.594455664583375,0.01782791292769273
+Advice for an astrophysics PhD student,Superluminous supernovae: an explosive decade,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],2.362298589718139,0.017522806344640627
+Do stars ever disappear from the sky?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],29.947605695096964,0.01748343661240714
+Am i screwed if i end my sophomore first semester with a 2.99?,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.514858867526684,0.017415291101018127
+Do stars ever disappear from the sky?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],32.29590246475246,0.01737039119712345
+Sound and Light Question I've Been Thinking About Recently,Physics near a black-hole horizon,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],7.9042654075464815,0.017307127496821242
+Question about time flow from an amateur.,Summary Talk: Challenges in Particle Astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.085515426472846,0.017128744605387526
+Question about time flow from an amateur.,CosPA2013: Outlook,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],4.326785678220826,0.017128744605387526
+Advice for an astrophysics PhD student,Astrophysics: Most distant cosmic blast seen,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.358680317758411,0.0171279468719515
+"""Artificial gravity"", sci-fi & a stupid question",Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.46945439647593,0.016757661622767556
+FAQ for Wiki,Neutrino Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.216234031999581,0.01619197061678291
+Cosmic speed limit,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.708819884976426,0.015780555687678822
+Dark Energy question from an amateur,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],48.8713534591038,0.01558299855643813
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],61.34226697228615,0.015502180926387278
+FAQ for Wiki,"Proceedings ""Neutrino Astrophysics""",[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.759244071287002,0.015497000182813902
+Advice for an astrophysics PhD student,High energy astrophysical processes,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],15.356709093584604,0.015197325040303768
+An odd question but wasn't sure where to turn.,AXAF in Context: A Revolution,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.396820516137671,0.015146567416404935
+Thoughts about black holes and the beginning of the universe,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.784967065164697,0.015013796878888161
+Question about time flow from an amateur.,Satio Hayakawa and dawn of high-energy astrophysics in Japan,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],4.912662067135975,0.014953344603822378
+I have so many questions,New astrophysical limit on neutrino millicharge,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.510300934949427,0.01484675402645761
+Thought experiment on motion,Nuclear Astrophysics: CIPANP 2006,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],12.341012072254172,0.014805381820240951
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Scientific Productivity with X-ray All-Sky Monitors,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],17.84474204779926,0.01478650928940927
+Thought experiment: Mysteries of cosmology solved in fiction?,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.479178763750998,0.014674636305909034
+Advice for an astrophysics PhD student,Astrophysical Rates for Explosive Nucleosynthesis: Stellar and  Laboratory Rates for Exotic Nuclei,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.332929457216075,0.014528902705892844
+Quark stars,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.263213709197828,0.014485977627041768
+Advice for an astrophysics PhD student,Scientific Productivity with X-ray All-Sky Monitors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.463628201432524,0.014375091793053688
+Question about time flow from an amateur.,Primeval galaxies,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.464480631765119,0.014115126398192675
+Question about time flow from an amateur.,The Role of Radioactivities in Astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.858539170948197,0.013581448476571702
+Thoughts about black holes and the beginning of the universe,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],6.207374370635897,0.013531195209785333
+Question about time flow from an amateur.,Trends in Nuclear Astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],21.08138248919975,0.01352317237424228
+Thought experiment on motion,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.881829605145915,0.013522135977591512
+Question about time flow from an amateur.,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],10.434841655017143,0.01305241938050585
+Would we recognize emission spectra of super heavy elements?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],29.393021956057833,0.013023117164215763
+Question about time flow from an amateur.,Astrophysical Quark Matter,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],6.80299784757821,0.013014140713771157
+Would we recognize emission spectra of super heavy elements?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],34.438514171959554,0.012938911540301285
+Thoughts about black holes and the beginning of the universe,Lecture notes on high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],8.12368683359619,0.012876728302122487
+Question about time flow from an amateur.,Best-Bet Astrophysical Neutrino Sources,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],7.184161414591729,0.012393682214059313
+Thought experiment on motion,Population synthesis in astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],4.2324126179346475,0.01230735275525199
+Sound and Light Question I've Been Thinking About Recently,CosPA2013: Outlook,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],3.4791775713920536,0.012048738217244769
+Thoughts about black holes and the beginning of the universe,Recent Astrophysics Results from ORELA and Possible Future Experiments  at ORELA and SNS,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.242517478959025,0.011902928923442942
+Radiative Processes - Astronomy/Astrophysics | Doubt about the relationship between EM and density in HII regions.,Remarks about the thermodynamics of astrophysical systems in mutual  interaction and related notions,[[0.         0.         0.         ... 0.         0.22163341 0.22163341]],[[0. 0. 0. ... 0. 0. 0.]],21.544057438579813,0.01174308861111911
+Cosmic speed limit,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],14.671351257619218,0.011738455251535091
+Would it be possible for a solar system to form from rogue planets?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],37.45663214291639,0.011518395630851443
+If you visit close to a star and there is only one H atom per centimeter but its a million degrees C...?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],22.080831452238552,0.01148435544776833
+Question about time flow from an amateur.,"Summary of Parallel Session: ""Relativistic and Particle Astrophysics""",[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],9.400267461225107,0.011476913826017171
+Would it be possible for a solar system to form from rogue planets?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],41.15043091920482,0.011443919322425476
+If you visit close to a star and there is only one H atom per centimeter but its a million degrees C...?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],25.297198267859297,0.011410099238326234
+Question about time flow from an amateur.,Isolated neutron stars and studies of their interiors,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],11.377182568039482,0.011377831785596563
+Thoughts about black holes and the beginning of the universe,Isolated neutron stars and studies of their interiors,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],11.875069715332208,0.01130968641424951
+"""Artificial gravity"", sci-fi & a stupid question",Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],39.88596826879879,0.011307773276777282
+Question about time flow from an amateur.,"TeV Astrophysics, A Review",[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],3.226322453562965,0.011263221711065665
+"""Artificial gravity"", sci-fi & a stupid question",Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],48.79764258622225,0.011234658822545785
+Thought experiment on motion,Astrophysical Quark Matter,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.640393103185586,0.011093666420145148
+I have so many questions,High energy astrophysical processes,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.749015762592006,0.010740466685438496
+Advice for an astrophysics PhD student,Open questions with ultra-high energy cosmic rays,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.588207537403879,0.0102038185588756
+Thought experiment on motion,Physics near a black-hole horizon,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],7.141895963974461,0.010120573357297854
+Advice for an astrophysics PhD student,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],10.258567889550985,0.010050149127754298
+Am i screwed if i end my sophomore first semester with a 2.99?,Roles and Needs of Laboratory Astrophysics in NASA's Space and Earth  Science Mission,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],33.89370674402486,0.00998228912607566
+Am i screwed if i end my sophomore first semester with a 2.99?,Laboratory Astrophysics and the State of Astronomy and Astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],35.35145759546412,0.009917745063900934
+Question about time flow from an amateur.,VHE astrophysics: recent developments,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],4.5248543661281255,0.009625888016369709
+Sound and Light Question I've Been Thinking About Recently,Global Transmission Coefficients in Hauser-Feshbach Calculations for  Astrophysics,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],10.316067997102186,0.00918136079674761
+CMB Blackbody Radiation Joules Calculation,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0.         0.         0.         ... 0.12136337 0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],28.391869776609425,0.00887674293535851
+Sound and Light Question I've Been Thinking About Recently,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],10.83643369471388,0.008762311275522874
+Thought experiment on motion,Primeval galaxies,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],5.400113682734364,0.008709078183017084
+Sound and Light Question I've Been Thinking About Recently,"TeV Astrophysics, A Review",[[0.07369881 0.07369881 0.         ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],3.3500982185615142,0.007922799539946063
+I have so many questions,Remarks about the thermodynamics of astrophysical systems in mutual  interaction and related notions,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],20.38236527701393,0.0076892469508146695
+Thought experiment on motion,Identification of Relativistic Effects in X-Ray Astrophysical Source,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],9.812822445965468,0.007685817365680263
+Thought experiment on motion,Laboratory Investigations into the Extreme Universe,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],25.646660559251732,0.007034229624929871
+Question about time flow from an amateur.,Lecture notes on high energy cosmic rays,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],9.203517205576041,0.006716208167930472
+Question about time flow from an amateur.,Neutrino Astrophysics,[[0.         0.         0.20954362 ... 0.         0.         0.        ]],[[0. 0. 0. ... 0. 0. 0.]],8.993434021981358,0.00655120829870924
+Thought experiment on motion,Open issues in neutrino astrophysics,[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],16.527214663438667,0.006109939743390607
+Thought experiment on motion,Astrophysics Conducted by the Lunar University Network for Astrophysics  Research (LUNAR) and the Center for Lunar Origins (CLOE),[[0. 0. 0. ... 0. 0. 0.]],[[0. 0. 0. ... 0. 0. 0.]],23.08246356810113,0.004728222323018586

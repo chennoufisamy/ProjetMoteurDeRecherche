@@ -10,6 +10,8 @@ from Document import Document
 from Author import Author
 from Corpus import Corpus
 from Document import Document, RedditDocument, ArxivDocument
+from Interface import VisualInterface
+
 
 #connexion à l API
 # r = praw.Reddit(client_id='zMgIHZUswL7lu-_SY_M3CA', client_secret='BILw8OIo0DCVBiKm62KCiaf2UnPTmA', user_agent='Chennoufi')
@@ -156,11 +158,6 @@ id2aut = {}
 num_auteurs_vus = 0
 authors = {}
 
-# for key in id2doc:
-#     if(id2doc[key].auteur not in id2aut): #On ajoute un auteur seulement si l'auteur n'y existe pas
-#         id2aut[id2doc[key].auteur] = Author(id2doc[key].auteur) #Ajout d'un objet Author dans le dictionnaire indexe par le nom de l'auteur
-#         id2aut[id2doc[key].auteur].add(id2doc) #Ajout de l'auteur dans le catalogue de l'objet Author
-
 for _,doc in df_reddit_arxiv.iterrows():
     if doc['Auteur'] not in id2aut:
         num_auteurs_vus += 1
@@ -169,16 +166,15 @@ for _,doc in df_reddit_arxiv.iterrows():
 
     authors[id2aut[doc['Auteur']]].add(doc['Texte'])
 
-
 # Input emis par l'utilisateur
 # auteur_recherche = input("Entrez le nom de l'auteur pour obtenir des statistiques : ")
 
 # Si l'auteur emirs par l'utilisateur existe dans id2aut
 # if auteur_recherche in id2aut:
-#     auteur = id2aut[auteur_recherche]
+#     auteur = authors[id2aut[auteur_recherche]]
 #     print("Statistiques pour l'auteur : " + auteur.nom) #On affiche le nom
 #     print("Nombre de documents produits : " + str(auteur.ndoc)) #On affiche le nombre de documents produits
-#     total_taille_documents = sum(len(doc) for doc in auteur.production.values()) #On affiche le total de la longeur de ses documents
+#     total_taille_documents = sum(len(doc) for doc in auteur.production) #On affiche le total de la longeur de ses documents
 #     taille_moyenne = total_taille_documents / auteur.ndoc if auteur.ndoc > 0 else 0 #On cree la moyenne entre la taille totale des documents et les documents ecrits par l'auteur
 #     print("Taille moyenne des documents : " + str(taille_moyenne) + " caractères")
 # else:
@@ -186,8 +182,6 @@ for _,doc in df_reddit_arxiv.iterrows():
 
 #Creation du corpus
 corpus = Corpus("Corpus1")
-# corpus.tri_nom()
-# corpus.tri_date()
 
 # Preparation des donees a inserer dans le corupus
 # for i,doc in df_reddit_arxiv.iterrows():
@@ -200,9 +194,67 @@ docs = df_reddit_arxiv.to_dict(orient='records')
 for doc in docs:
     corpus.add(Corpus.factory(doc['Origine'],doc))
 
+# print(corpus)
+
+# Tri des titres des documents par ordre alphabétique
+# corpus.tri_nom()
+
+# Tri des titres des documents par la date de publication
+# corpus.tri_date()
+
 # Sauvegarde du corpus dans le disque dur
 # corpus.save('corpus1.csv')
 
 # Ouvrir le corpus
-corpus_load = corpus.load('corpus1.csv')
-print(corpus_load)
+# corpus.load('corpus1.csv')
+
+# Faire une recherche dans le corpus
+# recherche = corpus.search('faq')
+# print(recherche)
+
+# Rechercher l'existance du mot et son contexte
+# recherche_mots = corpus.concorde('astronomy',15)
+# print(recherche_mots)
+
+# Afficher les statistiques du corpus
+# stats =corpus.stats()
+# print(stats)
+
+# Afficher le vocabulaire des documents du corpus
+# vocab = corpus.construire_vocabulaire()
+# print(vocab)
+
+# vocabul = corpus.construire_vocabulaire()
+# for _,i in enumerate(vocabul):
+    # print(i)
+
+# Afficher le resultat du moteur de recherche
+# moteur = corpus.moteur_de_recherche('faq')
+# print(moteur)    
+
+# Analyse comparative Reddit-Arxiv qui montre : TF-IDF, OKAPI-BM25 et cosine similarities
+# resultats_comparaison = corpus.comparer_reddit_arxiv()
+# print(resultats_comparaison)
+
+
+# Observer l'évolution temporelle d'un ou de plusieurs mots dans le corpus
+# corpus.observer_evolution_temporelle(['nuclear'])
+# corpus.observer_evolution_temporelle(['astrophysics', 'nuclear', 'galaxy'])
+
+
+# Rechercher un document dans le corpus en saisissant soit son titre, soit son auteur, soit sa date, soit son URL 
+# corpus.rechercher_documents("FAQ for Wiki")
+# corpus.rechercher_documents("wildAstroboy")
+# corpus.rechercher_documents("2019/10/13")
+# corpus.rechercher_documents("https://www.reddit.com//r/astrophysics/comments/dhfmll/faq_for_wiki/")
+
+
+# Wordcloud comparaison entre deux documents choisis 
+# reddit_doc_name = "FAQ for Wiki"
+# arxiv_doc_name = "Astrophysical Quark Matter"
+# corpus.analyse_vocabulaire(reddit_doc_name, arxiv_doc_name)
+
+
+# # Interface visuel pour le projet
+visual_interface = VisualInterface(corpus)
+visual_interface.run()
